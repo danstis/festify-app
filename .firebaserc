@@ -1,6 +1,6 @@
 {
-  "projects": {
-    "prod": "festify-79b08",
-    "dev": "festify-dev"
-  }
+    "projects": {
+        "prod": "festify-dev-1bdff",
+        "dev": "festify-dev-1bdff"
+    }
 }
